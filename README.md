@@ -1,6 +1,12 @@
 # The #mood project
 
-Map your facial expression to an iconic Soraya Montenegro meme using machine learning. 
+![mood gif](/mood.gif)
+
+
+
+### Map your facial expression to an iconic Soraya Montenegro meme using machine learning 
+
+
 
 The application consists of 3 parts:
 
